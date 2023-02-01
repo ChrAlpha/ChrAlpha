@@ -2,7 +2,7 @@
 
 >   You have to spare no effort, which can make you seemed like effortless.
 
--   currently active at [Twitter](https://twitter.com/ichralpha) & [Telegram Channel](https://t.me/ChrAlphaChannel)
+-   currently active at [Twitter](https://twitter.com/ichralpha), [Mastodon](https://m.cmx.im/@chralpha) & [Telegram Channel](https://t.me/ChrAlphaChannel)
 -   ex-OIer,  currently learning maths.
 -   trying to study front-end on my own by building  my own [Hexo](https://hexo.io) theme — [Cards](https://github.com/ChrAlpha/hexo-theme-cards).
 -   know a bit about JavaScript / C++.
