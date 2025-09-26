@@ -1,4 +1,4 @@
-## Olah! This is ChrAlpha
+## Olah! This is Chrys
 
 >   You have to spare no effort, which can make you seemed like effortless.
 
